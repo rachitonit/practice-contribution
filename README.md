@@ -88,3 +88,4 @@
 - Shivam Yadav, `Python`, Programmer Analyst
 - Shubham Jaiswal, 'Python + SQL + Informatica Powercenter' , Programmer Analyst
 - Jayant Dhundhara, `C++ + Laravel + SQL` Programmer Analyst
+- kundan kumar, `JAVA full stack +MERN Stack (React + Node.js)`,Programmer Analyst Intern at CepiaLabs.
