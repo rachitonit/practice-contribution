@@ -89,3 +89,4 @@
 - Shubham Jaiswal, 'Python + SQL + Informatica Powercenter' , Programmer Analyst
 - Jayant Dhundhara, `C++ + Laravel + SQL` Programmer Analyst
 - Himanshu Yadav, `Javascript + C# + SQL` Programmer Analyst
+- Chinmay Pednekar, `Full Stack + Data Science`, Programmer Analyst
