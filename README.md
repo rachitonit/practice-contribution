@@ -65,6 +65,7 @@
 - Nitesh Patel,`MERN Stack` Full Stack Web Developer
 - Prince,`MERN Stack+ SQL + 'DSA`, Programmer Analyst intern at CepiaLabs.
 - Akhilesh Kumar, `JAVA full stack+ MERN `,Programmer Analyst Intern at CepiaLabs.
+- Suhani Warhekar,' HTML + CSS + JavaScript', Programmer analyst at CepiaLabs.
 
 # Introduction to New batch 10-nov-2025
 
