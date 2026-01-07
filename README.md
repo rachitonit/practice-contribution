@@ -92,3 +92,5 @@
 - Suraj Vaishnav, MERN Stack Learner (React + Node.js), Programmer Analyst at Cepialabs.
 -Saumya Awasthi,'Html'+'Css'+'Java Script' Front End Developer
 - Abhijeet Gadge, `Java spring Boot + DevOps` Programmer Analyst
+
+# Introduction to new batch 27-Dec-2025
