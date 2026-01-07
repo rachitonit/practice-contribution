@@ -91,3 +91,6 @@
 - Himanshu Yadav, `Javascript + C# + SQL` Programmer Analyst
 - Suraj Vaishnav, MERN Stack Learner (React + Node.js), Programmer Analyst at Cepialabs.
 -Saumya Awasthi,'Html'+'Css'+'Java Script' Front End Developer
+
+# Introduction to New batch 29-dec-2025
+- Ketan Patil, `Blazor + ASP.NET + MSSQL`, Programmer Analyst at Cepialabs.
