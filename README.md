@@ -92,5 +92,5 @@
 - Suraj Vaishnav, MERN Stack Learner (React + Node.js), Programmer Analyst at Cepialabs.
 -Saumya Awasthi,'Html'+'Css'+'Java Script' Front End Developer
 
-# Introduction to New batch 29-dec-2025
+# Introduction to new batch 27-Dec-2025
 - Ketan Patil, `Blazor + ASP.NET + MSSQL`, Programmer Analyst at Cepialabs.
