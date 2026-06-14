@@ -5,7 +5,7 @@
 3. create a branch /your-name
 4. Add your introduction
 5. commit the merge
-6. push it to the main branch 
+6. push it to the main branch
 7. raise the pull request from github
 
 # Write your name, favorite tech stack, where you work
@@ -21,14 +21,13 @@
 9. Mohit , Mern stack , Intern at cipialabs .
 10. Priyanshu Kumari, `Nextjs Full Stack Developer`, Programmer analyst at CepiaLabs.
 
-
 # Introduction of New batch
 
 - Taniya Kanojiya, `Python`, Programmer Analyst Intern at CepiaLabs.
 - Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs.
 - Atul Soam, `Python + SQL`, programmer Analyst Intern at CepiaLabs.
 - Neelesh Gupta, `JavaScript + SQL`, Programmer Analyst Intern at CepiaLabs
-- Chandraveer singh Chauhan,Full stack developer, Intern at Cepialabs
+- Chandraveer singh Chauhan, Full stack developer, Intern at Cepialabs
 - Abhinav Harshikesh, `Python + MERN Stack`, Programmer Analyst Intern, at Cepialabs
 - Dhruv , `MERN stack` , Programmer analyst at cepialabs.
 - Padeep Singh Rawat, `Python + MERN stack` , Programmer Analyst intern at cepialabs.
@@ -39,57 +38,58 @@
 - Abhishek Thakur, `MERN stack` , Programmer Analyst Intern at cepialabs.
 - Atul Soam, `python + SQL`, Programmer Analyst Intern at CepiaLabs.
 - Abhay Kumar, `Python`, Programmer Analyst intern at cepialabs.
-- Basu Kumar, `MERN Stack+ Python + 'SQL`, Programmer Analyst intern at CepiaLabs
+- Basu Kumar, `MERN Stack + Python + SQL`, Programmer Analyst intern at CepiaLabs
 - Gourob Das, `DEVOPS and cloud Operations with Python and AWS`, Intern at cepialabs.
 - Gautam Govind, `Java FullStack`, Programmer Analyst Intern at cepiaLabs
 
 # Introduction to New batch 29-oct-2025
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
-- Kanishak todwal 'Full stack developer', Intern at Cepialabs
-- Shishank soni`MERN Stack+ Python + 'DSA`, Programmer Analyst intern at CepiaLabs
-- Pragati Bhardwaj ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
-- Prashant Gupta, `MERN Stack+ Data Analyst + 'DSA`, Programmer Analyst intern at CepiaLabs
-- Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.,
-- Gaurav Pandey `'Full stack developer'`, Intern at Cepialabs
-- Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.
-- Arpit Sharma, 'AIML Engineer', Programmer Analyst Intern at CepiaLabs.
-- Sandeep Kushwaha, 'Python + Django'
-- Krishna Kushwah ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
-- Himanshu singh, `JAVA + MERN + AWS`,Programmer Analyst Intern at CepiaLabs.
-- Bhuvendra singh`Full Stack + DevOps`, Programmer Analyst intern at CepiaLabs.
-- Mohit Saini. `MERN STCAK` Interns at CepiaLabs.
-- Dewang`MERN Stack+ SQL + 'DSA`, Programmer Analyst intern at CepiaLabs.
-- Trivedi Rahul`Python + SQL`, Programmer Analyst intern at CepiaLabs
-- Gautam Govind, `Java FullStack`, Programmer Analyst Intern at cepiaLabs
-- Nitesh Patel,`MERN Stack` Full Stack Web Developer
-- Prince,`MERN Stack+ SQL + 'DSA`, Programmer Analyst intern at CepiaLabs.
-- Akhilesh Kumar, `JAVA full stack+ MERN `,Programmer Analyst Intern at CepiaLabs.
+- Kanishak todwal, `Full stack developer`, Intern at Cepialabs
+- Shishank soni, `MERN Stack + Python + DSA`, Programmer Analyst intern at CepiaLabs
+- Pragati Bhardwaj, `MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
+- Prashant Gupta, `MERN Stack + Data Analyst + DSA`, Programmer Analyst intern at CepiaLabs
+- Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs
+- Gaurav Pandey, `Full stack developer`, Intern at Cepialabs
+- Arpit Sharma, `AIML Engineer`, Programmer Analyst Intern at CepiaLabs
+- Sandeep Kushwaha, `Python + Django`
+- Krishna Kushwah, `MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
+- Himanshu singh, `JAVA + MERN + AWS`, Programmer Analyst Intern at CepiaLabs
+- Bhuvendra singh, `Full Stack + DevOps`, Programmer Analyst intern at CepiaLabs
+- Mohit Saini, `MERN STACK`, Intern at CepiaLabs
+- Dewang, `MERN Stack + SQL + DSA`, Programmer Analyst intern at CepiaLabs
+- Trivedi Rahul, `Python + SQL`, Programmer Analyst intern at CepiaLabs
+- Gautam Govind, `Java FullStack`, Programmer Analyst Intern at CepiaLabs
+- Nitesh Patel, `MERN Stack`, Full Stack Web Developer
+- Prince, `MERN Stack + SQL + DSA`, Programmer Analyst intern at CepiaLabs
+- Akhilesh Kumar, `JAVA full stack + MERN`, Programmer Analyst Intern at CepiaLabs
 
 # Introduction to New batch 10-nov-2025
 
 - Rachit Singh, `React Native + Go lang for backend`, Associate Engineer
 - Lucky, `MERN + Java`, Mentor
-- Radha Maddeshiya, Python + Power BI, Intern at Cepialabs.
-- Shivam Yadav ,`Python`,Programmer Analyst
-- Prince Chaudhary, `JAVA full stack+ JAVASCRIPT + MERN `,Full Stack Web Developer Intern at CepiaLabs.
-- Sakshi Rodhiya, `Frontend + React`, Programmer Analyst Intern at CepiaLabsd
-- Sumit Kumar, `Python`, Programmer Analyst 
-- Gagandeep Singh, `Mern Stack` Programmer Analyst at Capialabs.
-- Kunal Sugandhi, `Python, Linux, SIEM Tools, CEHv13`, Cyber Security Engineer 
-- Harsh Jain, `Python` , Programmer Analyst
-- Sarthak Bari, `Data analyst` , Programmer Analyst
-- Md Danish, `MERN Stack (React + Node.js)`, Software Developer
-- Tanush Yadav, `Python + SQL`, Programer Analyst
-- Ankit Sharma, `Full Stack Developer`, Programmer Analyst - Intern at CepiaLabs
-- Sachin Kumar,`MERN/MEAN STACK`, Programmer Analyst
-- Himanshu Agarwal, `React Js`, Programmer Analyst
-- Deepak Sah, `MERN + Spring boot + java` Programmer Analyst
+- Radha Maddeshiya, `Python + Power BI`, Intern at Cepialabs
 - Shivam Yadav, `Python`, Programmer Analyst
-- Shubham Jaiswal, 'Python + SQL + Informatica Powercenter' , Programmer Analyst
-- Jayant Dhundhara, `C++ + Laravel + SQL` Programmer Analyst
-- Himanshu Yadav, `Javascript + C# + SQL` Programmer Analyst
-- Suraj Vaishnav, MERN Stack Learner (React + Node.js), Programmer Analyst at Cepialabs.
--Saumya Awasthi,'Html'+'Css'+'Java Script' Front End Developer
+- Prince Chaudhary, `JAVA full stack + JAVASCRIPT + MERN`, Full Stack Web Developer Intern at CepiaLabs
+- Sakshi Rodhiya, `Frontend + React`, Programmer Analyst Intern at CepiaLabs
+- Sumit Kumar, `Python`, Programmer Analyst
+- Gagandeep Singh, `MERN Stack`, Programmer Analyst at Cepialabs
+- Kunal Sugandhi, `Python, Linux, SIEM Tools, CEHv13`, Cyber Security Engineer
+- Harsh Jain, `Python`, Programmer Analyst
+- Sarthak Bari, `Data analyst`, Programmer Analyst
+- Md Danish, `MERN Stack (React + Node.js)`, Software Developer
+- Tanush Yadav, `Python + SQL`, Programmer Analyst
+- Ankit Sharma, `Full Stack Developer`, Programmer Analyst Intern at CepiaLabs
+- Sachin Kumar, `MERN / MEAN Stack`, Programmer Analyst
+- Himanshu Agarwal, `React Js`, Programmer Analyst
+- Deepak Sah, `MERN + Spring Boot + Java`, Programmer Analyst
+- Shivam Yadav, `Python`, Programmer Analyst
+- Shubham Jaiswal, `Python + SQL + Informatica Powercenter`, Programmer Analyst
+- Jayant Dhundhara, `C++ + Laravel + SQL`, Programmer Analyst
+- Himanshu Yadav, `Javascript + C# + SQL`, Programmer Analyst
+- Suraj Vaishnav, `MERN Stack Learner (React + Node.js)`, Programmer Analyst at Cepialabs
+- Saumya Awasthi, `HTML + CSS + JavaScript`, Front End Developer
 
 # Introduction to new batch 27-Dec-2025
+
+- Sanket Madgonde, `Data science and Data analyst `, Programmer Analyst intern at CepiaLabs
