@@ -93,3 +93,5 @@
 -Saumya Awasthi,'Html'+'Css'+'Java Script' Front End Developer
 
 # Introduction to new batch 27-Dec-2025
+
+-Pranjal Pinto,'Python','Sql','Microsoft Power Bi ,Py. Libraries 'Programmer Analyst ' Data science 
