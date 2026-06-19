@@ -93,3 +93,4 @@
 -Saumya Awasthi,'Html'+'Css'+'Java Script' Front End Developer
 
 # Introduction to new batch 27-Dec-2025
+- Nernay Kumar, `Full Stack + Data Science`, Programmer Analyst Intern at CepiaLads
